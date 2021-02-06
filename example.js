@@ -1,1 +1,1 @@
-alert('example!!!')
+alert('example wowow!!!')
